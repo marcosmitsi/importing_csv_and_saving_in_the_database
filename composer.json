@@ -1,0 +1,17 @@
+{
+  "description": "Projeto MVC",
+  "authors": [
+    {
+    "name": "Marcos Misti",
+    "email": "marcos@mitsi.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Core\\": "core"
+    }
+  },
+  "require": {
+
+  }
+}
